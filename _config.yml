@@ -2,3 +2,11 @@ theme: jekyll-theme-minimal
 title: "Anonymous\nAutonomous"
 description: "An interactive robotic art installation currently in development at the University of Michigan, 
 transforming empty office chairs to behave like driverless cars."
+
+pages: 
+  - title: Materials
+    link: AnonymousAutonomous.github.io
+  - title: Getting Started
+    link: AnonymousAutonomous.github.io
+  - title: About Us
+    link: AnonymousAutonomous.github.io
