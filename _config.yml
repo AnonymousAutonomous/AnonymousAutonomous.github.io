@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: "Anonymous\nAutonomous"
-description: an art installation of autonomous office chairs
+description: "This project is an interactive robotic art installation currently in development at the University of Michigan 
+that will transform empty office chairs to behave like driverless cars. Audience members will be able to reroute the chairs by 
+laying sheets of office printer paper on the floor to create makeshift lane markings. The installation will invite an active 
+conversation among the audience members about questions of automation, deskilling, and algorithmic decision-making, all of which 
+are processes hidden in polished black boxes, where they remain out of sight and out of control."
