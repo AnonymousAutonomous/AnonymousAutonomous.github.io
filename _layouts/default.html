@@ -23,6 +23,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
         {% if site.pages %} 
+        <p class="view">PAGES</p>
             {% for page in site.pages %}
                 <p class="view"><a href="{{ page.link }}">{{ page.title }}</a></p>
             {% endfor %}
